@@ -1,0 +1,108 @@
+
+.David{
+position: absolute;
+padding: 0;
+width: 420px;
+height: 168px;
+left: -5px;
+top: 570px;
+font-family: Fira Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 150px;
+line-height: 168px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+transform: rotate(-90deg);
+}
+.Bowie {
+position: absolute;
+padding: 0;
+width: 420px;
+height: 168px;
+left: -5px;
+top: 105px;
+font-family: Fira Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 150px;
+line-height: 168px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+transform: rotate(-90deg);
+}
+
+
+.un {
+position: absolute;
+width: 159px;
+height: 158px;
+left: 5px;
+top: 5px;
+font-family: Fira Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 132px;
+line-height: 158px;
+display: flex;
+align-items: center;
+color: #E927BE;
+}
+
+.verse {
+position: absolute;
+width: 396px;
+height: 158px;
+left: 257px;
+top: 5px;
+font-family: Fira Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 132px;
+line-height: 158px;
+display: flex;
+align-items: center;
+color: #E927BE;
+}
+
+.DBgif{
+    position: absolute;
+    right: 0px;
+    top: 140px;
+  }
+
+#menu {
+    position: absolute;
+    width: 616px;
+    height: 218px;
+    left: 25px;
+    top: 320px;
+    font-family: Fira Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16.5px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;  
+    max-width: 300px;
+    justify-content: space-around;
+  }
+  
+#menu li {
+    list-style-type: none; 
+   }
+
+#menu a {
+    color: #E927BE !important;
+    text-decoration: none
+  }
+#menu a:hover {
+    border-bottom: 1.5px dashed #E927BE ; 
+   }
+
+   .text {
+    top: 1000px;
+    color: #E927BE;
+   }
