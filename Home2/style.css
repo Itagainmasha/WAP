@@ -143,12 +143,26 @@ color: #E927BE;
   border-left: 1.5px dashed #E927BE;
   padding: 6px;
 }
-.top {
-  width: 61.5px;
-  height: 25px;
+
+#top {
   margin: auto;
-  padding: 2px;
-  border: 1.5px dashed #E927BE;
-  color:#FFFFFF;
+  font-family: Fira Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 17px;
+    padding: 20px;
+    display: flex;
+    align-items: center;  
+    max-width: 300px;
+    justify-content: space-around;
 }
+#top a{
+  color: #E927BE !important;
+  text-decoration: none
+}
+#top a:hover {
+  padding: 5px;
+  border-bottom: 1.5px dashed #E927BE ; 
+ }
 
